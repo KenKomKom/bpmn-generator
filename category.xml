@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-    <category-def
-        name="priceside-bpmn"
-        label="PricesIDE BPMN Tools"/>
+   <description name="PricesIDE BPMN" url="https://kenkomkom.github.io/bpmn-generator/">
+      PricesIDE BPMN
+   </description>
 
     <feature
         id="PricesIDE_BPMN.feature"
         version="1.0.0.qualifier">
-        <category name="priceside-bpmn"/>
+        <category name="PricesIDE BPMN"/>
     </feature>
+    
+    <category-def name="PricesIDE BPMN" label="PricesIDE BPMN">
+      <description>
+         PricesIDE BPMN
+      </description>
+   </category-def>
 </site>
