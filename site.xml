@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/PricesIDE_BPMN.feature_1.0.0.202601070736.jar" id="PricesIDE_BPMN.feature" version="1.0.0.202601070736"/>
+   <feature url="features/PricesIDE_BPMN.feature_1.0.0.202601070745.jar" id="PricesIDE_BPMN.feature" version="1.0.0.202601070745"/>
    <repository-reference location="https://www.flowable.org/designer/update/" name="" enabled="true" />
    <repository-reference location="https://download.eclipse.org/modeling/emfstore/updates/releases/" name="" enabled="true" />
    <repository-reference location="https://download.eclipse.org/releases/2021-06/" name="" enabled="true" />

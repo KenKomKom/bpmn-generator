@@ -5,7 +5,7 @@
         label="PricesIDE BPMN Tools"/>
 
     <feature
-        id="com.example.flowableplugin.feature"
+        id="PricesIDE_BPMN.feature"
         version="1.0.0.qualifier">
         <category name="priceside-bpmn"/>
     </feature>
